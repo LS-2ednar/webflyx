@@ -9,3 +9,5 @@ even more :-O
 Hello its me
 
 More messages
+
+When adding one and one together you will find more fun things to do :-O
